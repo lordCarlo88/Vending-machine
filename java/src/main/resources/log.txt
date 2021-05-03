@@ -1,0 +1,60 @@
+>03/29/2021 12:49:40 ----FEED MONEY: $1.00                     BALANCE: $1.00        
+>03/29/2021 12:49:40 ----FEED MONEY: $2.00                     BALANCE: $3.00        
+>03/29/2021 12:49:40 ----FEED MONEY: $5.00                     BALANCE: $8.00        
+>03/29/2021 12:49:41 ----FEED MONEY: $10.00                    BALANCE: $18.00       
+>03/29/2021 12:49:49 Purchasing: Cola               Slot: C1   Starting Balance: $18.00    Remaining Balance: $16.75
+>03/29/2021 12:49:50 Purchasing: Little League Chew Slot: D2   Starting Balance: $16.75    Remaining Balance: $15.80
+>03/29/2021 12:49:54 Purchasing: Potato Crisps      Slot: A1   Starting Balance: $15.80    Remaining Balance: $12.75
+>03/29/2021 12:50:04 ---GIVE CHANGE: $12.75                              Balance: $0.00
+>03/29/2021 12:50:08 -------Balance: $0.00                           GIVE CHANGE: $0.00         Final Balance: $0.00 
+>03/29/2021 12:52:07 ----FEED MONEY: $1.00                     BALANCE: $1.00        
+>03/29/2021 12:52:08 ----FEED MONEY: $2.00                     BALANCE: $3.00        
+>03/29/2021 12:52:08 ----FEED MONEY: $5.00                     BALANCE: $8.00        
+>03/29/2021 12:52:09 ----FEED MONEY: $10.00                    BALANCE: $18.00       
+>03/29/2021 12:52:15 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $18.00   Remaining Balance: $14.95
+>03/29/2021 12:52:17 Purchasing: Cola                Slot: C1   Starting Balance: $14.95   Remaining Balance: $13.70
+>03/29/2021 12:52:25 Purchasing: Little League Chew  Slot: D2   Starting Balance: $13.70   Remaining Balance: $12.75
+>03/29/2021 12:52:28 Purchasing: Cola                Slot: C1   Starting Balance: $12.75   Remaining Balance: $11.50
+>03/29/2021 12:52:29 ---GIVE CHANGE: $11.50                              Balance: $0.00
+>03/29/2021 12:52:30 -------Balance: $0.00                           GIVE CHANGE: $0.00         Final Balance: $0.00 
+>03/29/2021 12:55:25 ----FEED MONEY: $1.00                     BALANCE: $1.00         
+>03/29/2021 12:55:25 ----FEED MONEY: $2.00                     BALANCE: $3.00         
+>03/29/2021 12:55:26 ----FEED MONEY: $5.00                     BALANCE: $8.00         
+>03/29/2021 12:55:27 ----FEED MONEY: $10.00                    BALANCE: $18.00        
+>03/29/2021 12:55:31 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $18.00   Remaining Balance: $14.95
+>03/29/2021 12:55:34 Purchasing: Little League Chew  Slot: D2   Starting Balance: $14.95   Remaining Balance: $14.00
+>03/29/2021 12:55:37 Purchasing: Cola                Slot: C1   Starting Balance: $14.00   Remaining Balance: $12.75
+>03/29/2021 12:55:42 Purchasing: Cola                Slot: C1   Starting Balance: $12.75   Remaining Balance: $11.50
+>03/29/2021 12:55:46 ---GIVE CHANGE: $11.50                               Balance: $0.00
+>03/29/2021 12:55:47 -------Balance: $0.00                           GIVE CHANGE: $0.00        Final Balance: $0.00 
+>03/29/2021 12:57:34 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>03/29/2021 12:57:35 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>03/29/2021 12:57:35 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>03/29/2021 12:57:35 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>03/29/2021 12:57:41 Purchasing: Cola                Slot: C1   Starting Balance: $18.00   Remaining Balance: $16.75
+>03/29/2021 12:57:44 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $16.75   Remaining Balance: $13.70
+>03/29/2021 12:57:45 Purchasing: Little League Chew  Slot: D2   Starting Balance: $13.70   Remaining Balance: $12.75
+>03/29/2021 12:57:47 ---GIVE CHANGE: $12.75                               Balance: $0.00
+>03/29/2021 12:57:49 -------Balance: $0.00                            GIVE CHANGE: $0.00        Final Balance: $0.00 
+>03/29/2021 12:58:34 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>03/29/2021 12:58:35 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>03/29/2021 12:58:35 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>03/29/2021 12:58:36 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>03/29/2021 12:58:44 Purchasing: Triplemint          Slot: D4   Starting Balance: $18.00   Remaining Balance: $17.25
+>03/29/2021 12:58:48 Purchasing: Triplemint          Slot: D4   Starting Balance: $17.25   Remaining Balance: $16.50
+>03/29/2021 12:58:50 Purchasing: Triplemint          Slot: D4   Starting Balance: $16.50   Remaining Balance: $15.75
+>03/29/2021 12:58:52 Purchasing: Triplemint          Slot: D4   Starting Balance: $15.75   Remaining Balance: $15.00
+>03/29/2021 12:58:56 Purchasing: Triplemint          Slot: D4   Starting Balance: $15.00   Remaining Balance: $14.25
+>03/29/2021 12:59:04 -------Balance: $14.25                          GIVE CHANGE: $14.25        Final Balance: $0.00 
+>04/03/2021 12:53:43 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>04/03/2021 12:53:44 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>04/03/2021 12:53:45 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>04/03/2021 12:53:46 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>04/03/2021 12:53:55 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $18.00   Remaining Balance: $14.95
+>04/03/2021 12:54:07 ---GIVE CHANGE: $14.95                               Balance: $0.00
+>04/13/2021 22:03:53 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>04/13/2021 22:03:53 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>04/13/2021 22:03:54 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>04/13/2021 22:03:55 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>04/13/2021 22:04:04 Purchasing: Triplemint          Slot: D4   Starting Balance: $18.00   Remaining Balance: $17.25
+>04/13/2021 22:04:06 ---GIVE CHANGE: $17.25                               Balance: $0.00
