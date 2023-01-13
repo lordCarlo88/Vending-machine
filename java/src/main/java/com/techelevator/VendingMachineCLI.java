@@ -76,7 +76,7 @@ public class VendingMachineCLI {
 				VendingMachineItems.PrintOut(items);
 				System.out.println("Your balance is: $" + df.format(funds.getBalance()));
 				Scanner userInput = new Scanner(System.in);
-				String input = userInput.nextLine();
+				String input = userInput.nextLine().toUpperCase();
 
 				for(int i = 0;i<items.size();i+=1) {
 					if (items.get(i).getSlotNumber().equals(input)) {
@@ -138,7 +138,7 @@ public class VendingMachineCLI {
 
 	public static void recordTransaction(String choice){
 		try{
-			FileWriter myWriter = new FileWriter("C:\\Users\\Student\\workspace\\mod1-wk4-pairs-blue-t4\\java\\src\\main\\resources\\log.txt",true);
+			FileWriter myWriter = new FileWriter("C:\\Users\\Three Brothers Sound\\workspace\\repos\\Vending-machine\\java\\src\\main\\resources\\log.txt",true);
 			DateTimeFormatter dtf = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm:ss");
 			LocalDateTime now = LocalDateTime.now();
 			myWriter.write(">" + dtf.format(now)+" "+choice+"\r\n");

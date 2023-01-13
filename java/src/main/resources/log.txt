@@ -58,3 +58,29 @@
 >04/13/2021 22:03:55 ----FEED MONEY: $10.00                     BALANCE: $18.00        
 >04/13/2021 22:04:04 Purchasing: Triplemint          Slot: D4   Starting Balance: $18.00   Remaining Balance: $17.25
 >04/13/2021 22:04:06 ---GIVE CHANGE: $17.25                               Balance: $0.00
+>01/12/2023 22:53:17 ----FEED MONEY: $10.00                     BALANCE: $10.00        
+>01/12/2023 22:53:23 ----FEED MONEY: $5.00                      BALANCE: $15.00        
+>01/12/2023 22:56:33 ---GIVE CHANGE: $15.00                               Balance: $0.00
+>01/12/2023 23:06:50 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>01/12/2023 23:06:52 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>01/12/2023 23:06:53 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>01/12/2023 23:06:54 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>01/12/2023 23:16:03 ---GIVE CHANGE: $18.00                               Balance: $0.00
+>01/12/2023 23:16:23 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>01/12/2023 23:16:23 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>01/12/2023 23:16:24 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>01/12/2023 23:16:25 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>01/12/2023 21:22:08 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>01/12/2023 21:22:10 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>01/12/2023 21:22:11 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>01/12/2023 21:22:12 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>01/12/2023 21:22:38 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $18.00   Remaining Balance: $14.95
+>01/12/2023 21:27:44 ----FEED MONEY: $1.00                      BALANCE: $1.00         
+>01/12/2023 21:27:44 ----FEED MONEY: $2.00                      BALANCE: $3.00         
+>01/12/2023 21:27:45 ----FEED MONEY: $5.00                      BALANCE: $8.00         
+>01/12/2023 21:27:45 ----FEED MONEY: $10.00                     BALANCE: $18.00        
+>01/12/2023 21:27:53 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $18.00   Remaining Balance: $14.95
+>01/12/2023 21:28:04 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $14.95   Remaining Balance: $11.90
+>01/12/2023 21:28:12 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $11.90    Remaining Balance: $8.85
+>01/12/2023 21:28:19 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $8.85    Remaining Balance: $5.80
+>01/12/2023 21:28:36 Purchasing: Potato Crisps       Slot: A1   Starting Balance: $5.80    Remaining Balance: $2.75

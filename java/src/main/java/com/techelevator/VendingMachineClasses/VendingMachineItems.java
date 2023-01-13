@@ -23,7 +23,7 @@ private String sound;
     }
 
     public static List<VendingMachineItems> fileReader() {
-    String path = "C:\\Users\\Student\\workspace\\mod1-wk4-pairs-blue-t4\\java\\vendingmachine.csv";
+    String path = "C:\\Users\\Three Brothers Sound\\workspace\\repos\\Vending-machine\\java\\vendingmachine.csv";
     File inputFile = new File(path);
         List<VendingMachineItems> items = new ArrayList<>();
     try (Scanner fileScanner = new Scanner(inputFile)) {
